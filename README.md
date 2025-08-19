@@ -1,3 +1,31 @@
+**August 18, 2025**  
+- **Today's Focus:** Update README.md for Project: Recipes (HTML Foundations), fix minor errors and broken image paths in the HTML pages.   
+- **Key Concepts Solidified:** Markdown syntax for formatting text and for displaying a screenshot or a gif in the README.md file.         
+- **Aha! Moment:** Markdown processors can read and process HTML elements, but it is impractical to use HTML elements in markdown files as the whole purpose of markdown language is to reduce the complexity and keep the raw text cleaner.         
+- **Next Step:** Begin with the next lesson, "Intro to CSS"
+
+
+**August 17, 2025** 
+- **Today's Focus:** Work through the remaining sections of Project: Recipes (HTML Foundations).  
+- **Key Concepts Solidified:** HTML elements such as, `figure`, `figcaption`, and `small` to attribute credits for the images used. `Git restore` and `Git mv` commands to unstage a filed staged in error and to change the name of the directory in both local repository and Github, respectively.      
+- **Aha! Moment:** Use the `Git mv` command instead of just the `mv` command to change the name of the directory being tracked on Github to efficiently accomplish the task of making a commit and pushing the change to GitHub - Using `Git mv` will ensure both changing the name of the directory and staging the file.       
+- **Next Step:** Continue work on the residual sections of the Project: Recipes.
+
+
+**August 16, 2025** 
+- **Today's Focus:** Project: Recipes (HTML Foundations).  
+- **Key Concepts Solidified:** Reinforced my learnings by writing the boilerplate and basic text HTML code for three recipe pages and an index page and then passing these pages through the Git workflow and pushing them to GitHub with conventional commit messages.  
+- **Aha! Moment:** The realisation that passing the `git add .` command from the root directory of the repository adds all the files that have undergone modification. Before knowing this, I used to navigate to respective directories to choose the files for the staging area.    
+- **Next Step:** Work on the remaining sections of the Project: Recipes. 
+
+
+**August 15, 2025**
+- **Today's Focus:** Resuming studies after a break. Completed a comprehensive review of all Foundation topics (CLI, Git, HTML).
+- **Key Concepts Solidified:** Reinforced my understanding of the Git workflow (`add`, `commit`, `push`) and the core concepts of HTML semantics.
+- **Aha! Moment:** The review process helped clarify the difference between Git's local repository and the remote on GitHub.
+- **Next Step:** Begin the first project, "Recipe Pages."
+
+
 **August 4, 2025**
 - **Today's Focus:** The Odin Project - Foundations - Commit Messages.
 - **Key Concepts Learned:** Learned the two-part structure of a professional commit message (subject and body) and the conventions for writing them.
