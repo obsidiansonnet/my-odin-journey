@@ -1,3 +1,9 @@
+**October 19, 2025**  
+- **Today's Focus:** Update daily log after a break, comprehensive revision before attempting CSS exercies.   
+- **Key Concepts Solidified:** Reinforced my understanding of the CSS concepts such as the cascade, the box model, display properties, position properties, and block and inline boxes.          
+- **Aha! Moment:** CSS is very thoughtfully created, as it appears to have a descrnable solution or reasoning for edge cases and rare scenarios. The more one knows CSS, the more likely one is to find an elegant solution to a hairy problem.          
+- **Next Step:** Begin with CSS exercises assignment in the lesson Block and Inline. 
+
 **August 18, 2025**  
 - **Today's Focus:** Update README.md for Project: Recipes (HTML Foundations), fix minor errors and broken image paths in the HTML pages.   
 - **Key Concepts Solidified:** Markdown syntax for formatting text and for displaying a screenshot or a gif in the README.md file.         
