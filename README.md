@@ -1,3 +1,7 @@
+**February 9, 2026**  
+- **Focus:** Restart daily logs.   
+- **Log:** Couldn't log all this while because of erratic work schedule, but continued to study. During this period, I completed CSS foundations  and Flexbox, including all the projects that were part of the curriculum, and began studying Javascript Basics. At the time of writing of this log, I had completed the lessons leading up to Rock Paper Scissors Project, including Data Types and Conditionals, Javascript Developer Tools, Functions, Problem Solving, and Understanding Errors. Resuming log entries from today with a simiplified format.           
+
 **October 19, 2025**  
 - **Today's Focus:** Update daily log after a break, comprehensive revision before attempting CSS exercies.   
 - **Key Concepts Solidified:** Reinforced my understanding of the CSS concepts such as the cascade, the box model, display properties, position properties, and block and inline boxes.          
