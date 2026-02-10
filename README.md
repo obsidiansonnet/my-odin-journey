@@ -1,3 +1,7 @@
+**February 10, 2026**  
+- **Focus:** Project Rock Paper Scissors.   
+- **Log:** Completed the game logic and successfully ran the full 5-round loop in the console. Spent ~70% of the time planning/pseudocoding, which made the actual coding phase much smoother. Implemented core concepts including Function Scope, String Manipulation (standardizing user input), and Return values. Refactored the game loop code to remove redundant variables.               
+
 **February 9, 2026**  
 - **Focus:** Restart daily logs.   
 - **Log:** Couldn't log all this while because of erratic work schedule, but continued to study. During this period, I completed CSS foundations  and Flexbox, including all the projects that were part of the curriculum, and began studying Javascript Basics. At the time of writing of this log, I had completed the lessons leading up to Rock Paper Scissors Project, including Data Types and Conditionals, Javascript Developer Tools, Functions, Problem Solving, and Understanding Errors. Resuming log entries from today with a simiplified format.           
