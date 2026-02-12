@@ -1,3 +1,8 @@
+**February 11, 2026**  
+- **Focus:** Project Rock Paper Scissors.   
+- **Log:** Finalized documentation by pushing the README file. Identified and fixed a logic gap where a final draw was not handled in the score calculation. Refactored the condition to manage draws. Began the next module: Loops & Arrays. 
+
+
 **February 10, 2026**  
 - **Focus:** Project Rock Paper Scissors.   
 - **Log:** Completed the game logic and successfully ran the full 5-round loop in the console. Spent ~70% of the time planning/pseudocoding, which made the actual coding phase much smoother. Implemented core concepts including Function Scope, String Manipulation (standardizing user input), and Return values. Refactored the game loop code to remove redundant variables.               
