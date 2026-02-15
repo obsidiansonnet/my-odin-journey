@@ -1,3 +1,7 @@
+**February 14, 2026**  
+- **Focus:** Loops & Arrays.   
+- **Log:** The lesson covers Loops & Arrays separately. Started with studying Arrays. Went through lesson text and am going through the assigned readings. Covered the conceptual difference between Arrays (Ordered) and Objects (Keyed). Probing into how Arrays work, based on the information provided in the assigned readings, led me to understand why it is fast to navigate ordered information stored in Arrays than in Linked lists (Linked lists as a concept has not yet been covered in curriculum. This information came to light while researching Arrays), how Arrays in Javascript differ from those in other languages such as C++.         
+
 **February 11, 2026**  
 - **Focus:** Project Rock Paper Scissors.   
 - **Log:** Finalized documentation by pushing the README file. Identified and fixed a logic gap where a final draw was not handled in the score calculation. Refactored the condition to manage draws. Began the next module: Loops & Arrays. 
