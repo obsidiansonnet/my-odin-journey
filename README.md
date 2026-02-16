@@ -1,3 +1,7 @@
+**February 15, 2026**  
+- **Focus:** Loops & Arrays.   
+- **Log:** Carried on with the assigned readings on Arrays and coded along. 
+
 **February 14, 2026**  
 - **Focus:** Loops & Arrays.   
 - **Log:** The lesson covers Loops & Arrays separately. Started with studying Arrays. Went through lesson text and am going through the assigned readings. Covered the conceptual difference between Arrays (Ordered) and Objects (Keyed). Probing into how Arrays work, based on the information provided in the assigned readings, led me to understand why it is fast to navigate ordered information stored in Arrays than in Linked lists (Linked lists as a concept has not yet been covered in curriculum. This information came to light while researching Arrays), how Arrays in Javascript differ from those in other languages such as C++.         
