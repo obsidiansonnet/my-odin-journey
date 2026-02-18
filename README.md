@@ -1,3 +1,7 @@
+**February 19, 2026**  
+- **Focus:** Loops & Arrays.   
+- **Log:** Could not log for a few days but did contiue with the studies. Still carrying on with the assigned readings on Arrays. Revised previous day's notes, experimented with concepts to test their boundaries and get  exposure to edge cases or side-effects. In the process, stumbled upon the quirks of comma (,), which acts as a separator in the context of a list of items and as an operator when used to separate more than one values within expressions that anticipate only one value. Probing the quirks of comma as an operator led me to the concept of destructuring assignment.            
+
 **February 15, 2026**  
 - **Focus:** Loops & Arrays.   
 - **Log:** Carried on with the assigned readings on Arrays and coded along. 
