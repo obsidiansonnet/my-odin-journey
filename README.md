@@ -1,3 +1,7 @@
+**March 13, 2026**  
+- **Focus:** Loops & Arrays.   
+- **Log:** Paused logging for a few weeks to focus on searching for additional work. Even with limited time, I maintained my momentum by studying for about an hour every day to keep the concepts fresh. Today, I have resumed regular studies, and I am resuming my logs. I completed the final architectural concepts of the Arrays section of the lesson and cemented my learning by solving implementation exercises.       
+
 **February 19, 2026**  
 - **Focus:** Loops & Arrays.   
 - **Log:** Could not log for a few days but did contiue with the studies. Still carrying on with the assigned readings on Arrays. Revised previous day's notes, experimented with concepts to test their boundaries and get  exposure to edge cases or side-effects. In the process, stumbled upon the quirks of comma (,), which acts as a separator in the context of a list of items and as an operator when used to separate more than one values within expressions that anticipate only one value. Probing the quirks of comma as an operator led me to the concept of destructuring assignment.            
