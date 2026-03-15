@@ -1,3 +1,7 @@
+**March 14, 2026**  
+- **Focus:** Loops & Arrays.   
+- **Log:** Started studying loops. Investigating loop termination mechanics introduced me to the Iterator Protocol. Questioning the initialization phase of the loop led me to the realization of why it is considered safe to declare variables using let and not var. Even though declaring variables with var is possible, doing so allows the data to persist and risks scope bleed and undesired outcomes.       
+
 **March 13, 2026**  
 - **Focus:** Loops & Arrays.   
 - **Log:** Paused logging for a few weeks to focus on searching for additional work. Even with limited time, I maintained my momentum by studying for about an hour every day to keep the concepts fresh. Today, I have resumed regular studies, and I am resuming my logs. I completed the final architectural concepts of the Arrays section of the lesson and cemented my learning by solving implementation exercises.       
