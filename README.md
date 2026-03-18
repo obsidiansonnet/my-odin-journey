@@ -1,3 +1,7 @@
+**March 17, 2026**  
+- **Focus:** Loops & Arrays.   
+- **Log:** Revised the concepts, solved a few practice questions, and wrote a test. 
+
 **March 16, 2026**  
 - **Focus:** Loops & Arrays.   
 - **Log:** Completed studying loops, including `while` loops, `do...while` loops, `break`, `continue`, `label`, and `for` loop's functionality when its components are omitted. Solved a few practice questions listed at the end of the assigned reading pages.   
