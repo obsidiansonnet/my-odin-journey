@@ -1,3 +1,7 @@
+**March 18-20, 2026**  
+- **Focus:** Loops & Arrays.   
+- **Log:** Solved practice problems from the assigned readings and the Odin Project's exercises repository. Solving these problems made me realise that it is important to understand the problem precisely and think through things clearly before writing any code; otherwise, it can result in wasted time working on the wrong solution, or a solution with gaping holes that only become visible during testing. Searching for how to structure my thinking led me to an approach that requires breaking down the problem's elements and writing pseudocode before writing the actual code. One of the key requirements of this first stage is to think about how one would solve the problem physically in real life. For example, if a problem requires random shuffling of elements in a data structure, the first stage requires thinking about how a human would perform this shuffle using physical pieces of paper. This naturally leads to evaluating different methods of shuffling that adhere to the problem's constraints. Once this physical process is determined, writing the code to make the computer execute it becomes highly intuitive. This was a profound realisation. Resultantly, I also experienced, for the first time, and hopefully the first of many, the joy of thinking through a problem. 
+ 
 **March 17, 2026**  
 - **Focus:** Loops & Arrays.   
 - **Log:** Revised the concepts, solved a few practice questions, and wrote a test. 
