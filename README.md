@@ -1,3 +1,7 @@
+**March 24-25, 2026**  
+- **Focus:** Lessons completed to date.   
+- **Log:** Revised notes and practiced solving problems.   
+
 **March 21-23, 2026**  
 - **Focus:** Loops & Arrays.   
 - **Log:** Comparing my solutions with solutions to the practice exercises exposed holes in my knowledge about the several array methods studied. On going through pages on these methods on the website of MDN, I realised that the assigned readings of the course did not cover certain nuances of iterative methods. Therefore, went through the MDN pages of these methods and solved a few more questions along with the readings.    
