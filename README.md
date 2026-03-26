@@ -1,3 +1,7 @@
+**March 26, 2026**  
+- **Focus:** Lessons completed to date.   
+- **Log:** Continued with solving problems, but with a marked focus on generating optimized code as much as possible and by remaining within the constraints of my learnings hitherto. I learned to think algebraically, where possible, before brut forcing logic through loops, to minimize the number of operations; to think about the size of inputs and output before deciding whether to use tools that manipulate and generate arrays in response; to think about using specialised tools offered by Javascript before brute forcing conditional logic, to make the code readable.       
+
 **March 24-25, 2026**  
 - **Focus:** Lessons completed to date.   
 - **Log:** Revised notes and practiced solving problems.   
