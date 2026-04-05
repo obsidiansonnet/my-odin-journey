@@ -1,3 +1,7 @@
+**April 2 - April 5, 2026**  
+- **Focus:** DOM Manipulation and Events.   
+- **Log:** Completed the assigned readings for this lesson. Read about the different type of events; how event flow (bubbling & capturing) works and how it can be manipulated in certain situations to alter the order in which event handler for the parent and that of the target get executed; how event delegation on a parent element saves one from setting individual event handlers for all its child elements, thereby saving space and reducing complexity of the code.   
+
 **March 27 - April 1, 2026**  
 - **Focus:** DOM Manipulation and Events.   
 - **Log:** Completed reading the lesson text. This lesson felt lengtheir than it appeared. Probing the mechanics of DOM Manipulation and Events introduced me to a variety of concepts and mechanisms: How browser's rendering engine and Javascript engine interact to create, modify, or remove elements of the DOM (the rendering engine's creating a ghost node before the actual appending of the node seemed fascinating); what approach does the browser take in navigating the DOM to look for the queried object; how event listeners work; which is the recommended method of implementing event listeners; how the method of writing event listners in inline HTML involves creation of a wrapper object by the browser's engine and what are its drawbacks; how event listeners are used to prevent default browser behavior on certain actions, such as clicking of a link and pressing submit button on a form, to provide a better user interface and experience.       
